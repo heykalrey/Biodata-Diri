@@ -52,7 +52,7 @@ body {
   color: #0073b1;
 }
 
-/* Overlay putih transparan untuk konten utama */
+
 .overlay {
   width: 90%;
   max-width: 900px;
@@ -111,7 +111,7 @@ body {
   font-style: italic;
 }
 
-/* Biodata grid */
+
 .biodata-grid {
   display: flex;
   flex-wrap: wrap;
@@ -132,14 +132,13 @@ body {
   font-size: 1.05rem;
 }
 
-/* Pendidikan */
 .ed-desc {
   color: #555;
   font-size: 0.96rem;
   margin-left: 8px;
 }
 
-/* Kegiatan */
+
 .kegiatan-list {
   display: flex;
   flex-wrap: wrap;
@@ -159,7 +158,7 @@ body {
   margin-bottom: 8px;
 }
 
-/* Portofolio */
+
 .porto-list {
   display: flex;
   flex-wrap: wrap;
@@ -179,14 +178,14 @@ body {
   margin-bottom: 8px;
 }
 
-/* Experience */
+
 .exp-desc {
   color: #555;
   font-size: 0.96rem;
   margin-left: 8px;
 }
 
-/* Kontak */
+
 .kontak-list p {
   margin-bottom: 8px;
 }
@@ -201,7 +200,7 @@ body {
   margin-top: 18px;
 }
 
-/* Tab Content Animasi */
+
 .tab-content {
   display: none;
   padding: 32px 16px;
